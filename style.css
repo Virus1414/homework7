@@ -102,3 +102,13 @@ body{
 .card:last-child{
     margin-right: 0;
 }
+.video{
+    padding-top: 95px 0px 100px 0px;
+}
+.youtube{
+    width: 1110px;
+    height: 600px;
+}
+.description.margin{
+    margin-bottom: 52px;
+}
