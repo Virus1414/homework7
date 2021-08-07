@@ -112,3 +112,18 @@ body{
 .description.margin{
     margin-bottom: 52px;
 }
+.footer{
+    padding: 47px 0 46px 0;
+    background-color: #34547A;
+    color: #FFFFFF;
+}
+.name{
+    font-size: 21px;
+    line-height: 25px;
+    font-weight: 500;
+    margin-bottom: 12px;
+}
+.copyright{
+    font-size: 12px;
+    line-height: 21px;
+}
