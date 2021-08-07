@@ -69,3 +69,36 @@ body{
 .about{
     padding: 116px 0 95px 0;
 }
+.cards{
+    background-color: #34547A;
+    padding: 100px 0;
+}
+.icon{
+    display: inline-block;
+    vertical-align: top;
+
+}
+.card-text{
+    display: inline-block;
+    vertical-align: top;
+    color: #FFFFFF;
+    padding-top: 3px;
+    margin-left: 20px;
+}
+.card-title{
+    font-weight: 500;
+    font-size: 21px;
+    line-height: 21px;
+    margin-bottom: 7px;
+}
+.card-description{
+    line-height: 16px
+}
+.card{
+    display: inline-block;
+    vertical-align: top;
+    margin-right: 45px;
+}
+.card:last-child{
+    margin-right: 0;
+}
