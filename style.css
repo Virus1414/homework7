@@ -43,6 +43,7 @@ body{
 .description{
     color: #727272;
     width: 540px;
+    margin-bottom: 55px;
 }
 .description.centre{
     margin: 0 auto;
@@ -56,7 +57,7 @@ body{
     letter-spacing: 0.1em;
     color: #FFFFFF;
     background-color: #34547A;
-    padding: 0 41px;
+    padding: 20px 41px 19px 41px;
 }
 .sub-title{
     font-weight: 500;
@@ -108,6 +109,7 @@ body{
 .youtube{
     width: 1110px;
     height: 600px;
+    margin-bottom: 100px;
 }
 .description.margin{
     margin-bottom: 52px;
